@@ -31,7 +31,7 @@ const Skills: React.FC = () => {
     { name: 'Linux', level: 60, category: 'tools' },
 
     // Languages
-    { name: 'Português', level: 100, category: 'languages' },
+    { name: 'Português', level: 95, category: 'languages' },
     { name: 'Inglês', level: 60, category: 'languages' },
   ];
 

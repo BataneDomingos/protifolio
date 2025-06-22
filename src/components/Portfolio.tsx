@@ -134,7 +134,7 @@ const Portfolio: React.FC = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-purple-400 to-blue-400 mx-auto rounded-full mb-4"></div>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Projetos que demonstram minha expertise em desenvolvimento full-stack e mobile
+            Projetos que demonstram minha expertise em desenvolvimento de Sistema e mobile
           </p>
         </div>
 

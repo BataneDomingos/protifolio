@@ -42,7 +42,7 @@ const Resume: React.FC = () => {
   ];
 
   const certifications = [
-  'Estou atualmente finalizando o curso Técnico em Informática pela UCM'
+  'Estou atualmente finalizando o curso profissional de Tecnologia de Informação na UCM .',
   ];
 
   return (
