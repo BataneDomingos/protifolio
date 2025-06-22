@@ -73,7 +73,7 @@ const Portfolio: React.FC = () => {
     {
       id: 3,
       title: 'ChatBot Inteligente',
-      description: 'Um assistente virtual desenvolvido com tecnologias modernas, capaz de interagir com usuários de forma natural e eficiente. Utiliza inteligência artificial da OpenAI para compreender perguntas, gerar respostas contextuais e aprender com o tempo. Ideal para suporte ao cliente, automação de atendimento e integração com sites e aplicativos.',
+      description: 'Um assistente virtual desenvolvido com tecnologias modernas, capaz de interagir com usuários de forma natural e eficiente. Utiliza inteligência artificial da OpenAI para compreender perguntas, gerar respostas contextuais e aprender com o tempo. Ideal para suporte ao cliente, automação de atendimento e integração com sites e aplicativos. Projeto Feito em dupla',
       technologies: ['Python', 'javaScript', 'HTML/CSS', 'OpenIA'],
       image: '',
       images: [
