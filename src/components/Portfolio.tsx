@@ -37,7 +37,7 @@ const Portfolio: React.FC = () => {
     {
       id: 2,
       title: 'Sistema de Venda',
-      description: 'Sistema de venda completa com gestão de estoque, produtos e recibos. Tudo para facilitar seu negocio. O sistema e protogido com um sistema de login logo no inicio.',
+      description: 'Sistema de venda completa com gestão de estoque, produtos e recibos. Tudo para facilitar seu negocio. O sistema e protegido com uma tela de login logo no inicio.',
       technologies: ['React', 'PostgreSQL', 'Node.js', 'Express'],
       image: '',
       images: [
