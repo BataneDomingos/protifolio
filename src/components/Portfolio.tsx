@@ -78,7 +78,7 @@ const Portfolio: React.FC = () => {
       image: '',
       images: [
         { src: '/imagens/a.png', label: 'Painel de Saudacao ' },
-        { src: '/imagens/002.png', label: 'Resposta Automatizada e Moderna' },
+        { src: '/imagens/b.png', label: 'Resposta Automatizada e Moderna' },
      
       ],
       link: '#',
